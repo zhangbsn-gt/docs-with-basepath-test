@@ -10,3 +10,14 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+```mermaid
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
