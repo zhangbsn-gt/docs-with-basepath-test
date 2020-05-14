@@ -21,3 +21,9 @@ stateDiagram
     Moving --> Crash
     Crash --> [*]
 ```
+
+```mermaid
+stateDiagram
+    [*] --> s1
+    s1 --> [*]
+```
