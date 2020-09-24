@@ -20,3 +20,7 @@ Width = 250:
 200x400:
 
 ![Ducky 1](docs/ducky_square_1.jpeg ':size=200x400')
+
+50%:
+
+![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
