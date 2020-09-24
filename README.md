@@ -12,4 +12,4 @@ This is a test file in a test repo.
 > This is a test file in a test repo. Pineapple!
 
 There should be an image here:
-![Ducky](docs/ducky_square_1.jpeg)
+![Ducky](docs/ducky_square_1.jpeg ':size=250')
