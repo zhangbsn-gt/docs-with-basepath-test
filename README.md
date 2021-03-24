@@ -17,3 +17,6 @@ Width = 250:
 50%:
 
 ![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
+
+Test this image:
+![Some image](https://github.com/GovTechSG/developer.gov.sg/raw/master/assets/img/2%20Code%20Snap.png)
