@@ -1,6 +1,7 @@
 # Get started
 Here is how to get started
-
+# Get started
+Here is how to get started
 ## Mermaid
 
 ```mermaid
