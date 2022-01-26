@@ -20,3 +20,6 @@ Width = 250:
 
 Test this image:
 ![Some image](https://github.com/GovTechSG/developer.gov.sg/raw/master/assets/img/2%20Code%20Snap.png)
+
+Test pdf link:
+[Test PDF](/assets/dummy.pdf ':target=_blank') 
