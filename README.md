@@ -23,3 +23,5 @@ Test this image:
 
 Test pdf link:
 [Test PDF](/assets/dummy.pdf ':target=_self') 
+
+Test webhook update.
