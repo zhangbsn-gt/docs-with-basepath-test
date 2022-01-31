@@ -29,5 +29,5 @@ Test pdf link:
 Test webhook update.
 
 <a href="terms-of-use.pdf" target="_blank">View Terms of Use v 3.6.2</a>
-<a href="privacy-policy-v-2.7.2.pdf" target="_blank">View Privacy Policy v 2.7.2</a>
-<a href="mdm-aup-v4.0.pdf " target="_blank">View Acceptable Use Poilcy v 4.0</a>
+<a href="privacy-policy-v-2.pdf" target="_blank">View Privacy Policy v 2.7.2</a>
+<a href="mdm-aup-v4.pdf " target="_blank">View Acceptable Use Poilcy v 4.0</a>
