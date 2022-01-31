@@ -38,4 +38,4 @@ pie
     "Iron" :  5
 ```
 Test pdf link:
-[Test PDF](base%20dummy.pdf ':target=_blank') 
+[Test PDF](terms-of-use.pdf ':target=_blank') 

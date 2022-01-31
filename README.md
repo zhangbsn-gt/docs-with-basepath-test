@@ -22,8 +22,8 @@ Test this image:
 ![Some image](https://github.com/GovTechSG/developer.gov.sg/raw/master/assets/img/2%20Code%20Snap.png)
 
 Test pdf link:
-- [Test PDF](/base%20dummy.pdf ':target=_self') 
+- [Test PDF](/terms-of-use.pdf ':target=_self') 
 
 Test webhook update.
 
-<a href="base dummy.pdf" target="_blank">test</a>
+<a href="terms-of-use.pdf" target="_blank">test</a>
