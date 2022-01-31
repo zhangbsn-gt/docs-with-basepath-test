@@ -26,4 +26,4 @@ Test pdf link:
 
 Test webhook update.
 
-<a href="base_dummy.3.6.2.pdf" target="_blank">test</a>
+<a href="base dummy.pdf" target="_blank">test</a>
