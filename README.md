@@ -25,3 +25,5 @@ Test pdf link:
 [Test PDF](/assets/dummy.pdf ':target=_self') 
 
 Test webhook update.
+
+<a href="/assets/dummy.pdf" target="_blank">test</a>
