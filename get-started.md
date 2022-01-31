@@ -37,3 +37,5 @@ pie
     "Magnesium" : 10.01
     "Iron" :  5
 ```
+Test pdf link:
+[Test PDF](/assets/dummy.pdf ':target=_self') 
