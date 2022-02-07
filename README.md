@@ -32,13 +32,16 @@ Test webhook update
 
 Test Highlight Area
 
+Using div tag
 <div class="warn">
+
     <ul>
         <li>One</li>
         <li>Two</li>
     </ul>
 </div>
 
+Using p tag
 <p class="warn">
     <ul>
         <li>One</li>
@@ -46,11 +49,22 @@ Test Highlight Area
     </ul>
 </p>
 
+Using p tag without ul
 <p class="warn">
    - One <br>
    - Two <br>
 </p>
 
+Using markdown with linebreak tag
 ?> - One <br> - Two <br>
 
+Using markdown with linebreak and &bull
 ?> &bull; One <br> &bull; Two <br>
+
+<div class="info">
+    <p>Title<p><br>
+    <ul>
+        <li>One</li>
+        <li>Two</li>
+    </ul>
+</div>
