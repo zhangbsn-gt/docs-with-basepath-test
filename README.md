@@ -34,20 +34,13 @@ Test Highlight Area
 
 Using div tag
 <div class="warn">
-
     <ul>
         <li>One</li>
         <li>Two</li>
     </ul>
+
+    Markdown stuff can be here.
 </div>
-
-Using p tag
-<p class="warn">
-    <ul>
-        <li>One</li>
-        <li>Two</li>
-    </ul>
-</p>
 
 Using p tag without ul
 <p class="warn">
@@ -56,13 +49,15 @@ Using p tag without ul
 </p>
 
 Using markdown with linebreak tag
+
 ?> - One <br> - Two <br>
 
 Using markdown with linebreak and &bull
-?> &bull; One <br> &bull; Two <br>
 
-<div class="info">
-    <p>Title<p><br>
+!> &bull; One <br> &bull; Two <br>
+
+<div class="tip">
+    <p>Title<p>
     <ul>
         <li>One</li>
         <li>Two</li>
