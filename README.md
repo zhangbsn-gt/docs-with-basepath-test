@@ -25,7 +25,9 @@ Test 75% with SGDS-Card:
 
 Test 75% with SGDS-Card and MD:
 <div class="sgds-section sgds-card" markdown="1">
+
    ![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
+   
 </div>
 
 Test MD Style:
