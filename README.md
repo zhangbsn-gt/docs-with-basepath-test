@@ -16,8 +16,11 @@ Width = 250:
 
 ![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
 
-Test 75% with border:
-<div class="sgds-card">![Ducky 1](docs/ducky_square_1.jpeg ':size=75%')</div>
+Test 75% with SGDS-Card:
+<div class="sgds-section sgds-card">
+    <center><img width="75%" src="docs/ducky_square_1.jpeg"></center>
+</div>
+
 
 Test this image:
 ![Some image](https://github.com/GovTechSG/developer.gov.sg/raw/master/assets/img/2%20Code%20Snap.png)
