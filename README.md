@@ -16,25 +16,6 @@ Width = 250:
 
 ![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
 
-Test 75% with SGDS-Card:
-<div class="sgds-section sgds-card">
-    <center>
-    <img width="75%" src="docs/ducky_square_1.jpeg" alt="Ducky 1" data-origin="docs/ducky_square_1.jpeg">
-    </center>
-</div>
-
-Test 75% with SGDS-Card and MD:
-<div class="sgds-section sgds-card" markdown="1">
-
-   ![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
-   
-</div>
-
-Test MD Style:
-
-![Ducky 1](docs/ducky_square_1.jpeg ':size=75%')
-
-
 Test this image:
 ![Some image](https://github.com/GovTechSG/developer.gov.sg/raw/master/assets/img/2%20Code%20Snap.png)
 
