@@ -16,6 +16,14 @@ Width = 250:
 
 ![Ducky 1](docs/ducky_square_1.jpeg ':size=50%')
 
+75% with border:
+
+![Ducky 1](docs/ducky_square_1.jpeg ':size=75% .bordered')
+
+KBD with image:
+
+<kbd class="kbd-no-bg">![Ducky 1](docs/ducky_square_1.jpeg ':size=75%')</kbd> 
+
 Test this image:
 ![Some image](https://github.com/GovTechSG/developer.gov.sg/raw/master/assets/img/2%20Code%20Snap.png)
 
