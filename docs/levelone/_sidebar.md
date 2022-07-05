@@ -1,4 +1,4 @@
-* *Page 1*
+* **Page 1**
 * [Home](/)
 * **Level Zero Links**
     * [Level zero - get started](get-started.md)
