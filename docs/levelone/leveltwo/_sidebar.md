@@ -1,5 +1,5 @@
 * **Page 2**
-* [Home](../../)
+* [Home](/)
 * **Level Zero Links**
 * [Level zero - get started](/get-started.md)
 * [Level zero - sub page](docs/a-sub-page)
