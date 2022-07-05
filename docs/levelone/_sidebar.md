@@ -7,6 +7,6 @@
 * [Level one - get started](docs/levelone/level-one-get-started)
 * [Level one - sub page](docs/levelone/level-one-sub-page)
 * ***Back***
-* [Back](/docs/levelone)
+* [Back](/get-started.md)
 * ***Next page***
-* [Next](/docs/levelone/leveltwo)
+* [Next](/docs/levelone/leveltwo/level-two-get-started.md)
