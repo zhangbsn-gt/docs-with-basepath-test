@@ -1,5 +1,7 @@
 * [Home](../../)
-* [Level one - get started](../level-one-get-started)
+* [Level zero - get started](../../../get-started.md)
+* [Level zero - sub page](../../a-sub-page)
+* [Level one - get started](../level-one-get-started.md)
 * [Level one - sub page](../level-one-sub-page)
 * [Level two - get started](/level-two-get-started)
 * [Level two - sub page](/level-two-sub-page)
