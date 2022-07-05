@@ -1,11 +1,11 @@
 * **Page 2**
 * [Home](../../)
 * **Level Zero Links**
-* [Level zero - get started](../../../get-started.md)
-* [Level zero - sub page](../../a-sub-page)
+* [Level zero - get started](/get-started.md)
+* [Level zero - sub page](docs/a-sub-page)
 * **Level One Links**
-* [Level one - get started](../level-one-get-started.md)
-* [Level one - sub page](../level-one-sub-page)
+* [Level one - get started](docs/levelone/level-one-get-started.md)
+* [Level one - sub page](docs/levelone/level-one-sub-page)
 * **Level Two Links**
-* [Level two - get started](/level-two-get-started)
-* [Level two - sub page](/level-two-sub-page)
+* [Level two - get started](docs/levelone/leveltwo/level-two-get-started)
+* [Level two - sub page](docs/levelone/leveltwo/level-two-sub-page)
