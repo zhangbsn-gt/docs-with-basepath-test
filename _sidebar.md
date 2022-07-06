@@ -1,5 +1,5 @@
 * **Page 0**
-* [**Level Zero Links**](/)
+* [**Level Zero Links**](/home)
 * [Get started](get-started)
 * [A sub-page](docs/a-sub-page)
 * [Excel Download](excel-download.md)
