@@ -44,7 +44,7 @@ Test pdf link:
 - [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank') 
 
 
-- [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank :class="test-class" :title="abc"') 
+- [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank :class="test-class" :title="abc"' ':class="test-class"' ':title="abc"') 
 
 
 Test webhook update
