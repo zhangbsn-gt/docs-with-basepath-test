@@ -45,6 +45,7 @@ Test pdf link:
 
 
 - [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank :class=test-class :title=abc') 
+- [Disabled Link](./terms-of-use.pdf ':disabled')
 
 
 Test webhook update
