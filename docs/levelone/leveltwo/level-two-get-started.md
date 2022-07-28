@@ -44,7 +44,9 @@ Test pdf link:
 - [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank') 
 
 Test docsify link:
-- [Test docsify link attributes](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank :class=test-class :title=abc :id=test-id') 
+- [Test docsify link attributes - external link](https://docsify.js.org/#/ ':target=_blank :class=test-class :title=abc :id=test-id') 
+- [Test docsify link attributes - same origin link](./level-two-sub-page.md ':target=_blank :class=test-class :title=abc :id=test-id') 
+- [Test docsify link attributes - download(relative) link](./terms-of-use.pdf ':target=_blank :class=test-class :title=abc :id=test-id') 
 - [Test Disabled Link](./terms-of-use.pdf ':disabled :class=disabled-class :title=disabled')
 
 
