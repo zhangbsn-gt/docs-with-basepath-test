@@ -44,8 +44,8 @@ Test pdf link:
 - [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank') 
 
 
-- [Worst PDF naming ever](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank :class=test-class :title=abc') 
-- [Disabled Link](./terms-of-use.pdf ':disabled :class=disabled-class :title=disabled')
+- [Test docsify link attributes](../../../assets/Random%20Naming%20Style%201%20.%202%203.4.pdf ':target=_blank :class=test-class :title=abc :id=test-id') 
+- [Test Disabled Link](./terms-of-use.pdf ':disabled :class=disabled-class :title=disabled')
 
 
 Test webhook update
