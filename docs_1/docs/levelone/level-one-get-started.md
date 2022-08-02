@@ -50,12 +50,16 @@ Test docsify links:
 - [docsify-style /docs/levelone/level-one-sub-page.md#an-image](/docs/levelone/level-one-sub-page.md#an-image)
 - [docsify-style #mermaid](#mermaid)
 
-Test anchor links:
-- <a href="#get-started">anchor tags e.g., a hrefs #get-started</a>
-- <a href="level-one-sub-page.md">anchor tags e.g., a hrefs level-one-sub-page.md</a>
-- <a href="/docs/levelone/level-one-sub-page.md?id=an-image">anchor tags e.g., a hrefs /docs/levelone/level-one-sub-page.md?id=an-image</a>
-- <a href="/docs/levelone/level-one-sub-page.md#an-image">anchor tags e.g., a hrefs /docs/levelone/level-one-sub-page.md#an-image</a>
-- <a href="#mermaid">anchor tags e.g., a hrefs #get-started</a>
+Test cross origin for history (target=_self) links:
+- <a href="https://docsify.js.org">https://docsify.js.org</a>
+- <a href="https://docsify.js.org/">https://docsify.js.org/</a>
+- <a href="https://docsify.js.org/#">https://docsify.js.org/#</a>
+- <a href="https://github.com">https://github.com</a>
+- <a href="https://github.com/">https://github.com/</a>
+- [docsify-style https://docsify.js.org](https://docsify.js.org)
+- [docsify-style https://docsify.js.org/](https://docsify.js.org/)
+- [docsify-style https://docsify.js.org/#](https://docsify.js.org/#)
+- [docsify-style https://docsify.js.org/#/](https://docsify.js.org/#/)
   
 
 Test webhook update
