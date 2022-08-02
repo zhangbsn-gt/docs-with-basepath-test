@@ -46,7 +46,6 @@ Test pdf link:
 Test docsify links:
 - [docsify-style #get-started ](#get-started)
 - [docsify-style level-one-sub-page.md (should fail) ](level-one-sub-page.md)
-- [docsify-style level-one-sub-page.md (should fail) ](level-one-sub-page)
 - [docsify-style /docs/levelone/level-one-sub-page.md?id=an-image](/docs/levelone/level-one-sub-page.md?id=an-image)
 - [docsify-style /docs/levelone/level-one-sub-page.md#an-image](/docs/levelone/level-one-sub-page.md#an-image)
 - [docsify-style #mermaid](#mermaid)
