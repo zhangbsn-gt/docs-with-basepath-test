@@ -61,4 +61,4 @@ Test webhook update
 
 New test pathing (for paths and files):
 - [Level two sub page](docs/levelone/leveltwo/level-two-sub-page.md)
-- [Terms-of-use within leveltwo folder](leveltwo/terms-of-use.pdf)
+- [Terms-of-use within leveltwo folder](docs/levelone/leveltwo/terms-of-use.pdf)
