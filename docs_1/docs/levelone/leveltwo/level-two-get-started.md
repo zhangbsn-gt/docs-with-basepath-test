@@ -60,5 +60,5 @@ Test webhook update
 - <a href="/assets/Random Naming Style 1 . 2 3.4.pdf" target="_blank">View Acceptable Use Poilcy v 4.0</a>
 
 New test pathing (for paths and files):
-- [Level two sub page](leveltwo/level-two-sub-page.md)
+- [Level two sub page](docs/levelone/leveltwo/level-two-sub-page.md)
 - [Terms-of-use within leveltwo folder](leveltwo/terms-of-use.pdf)
