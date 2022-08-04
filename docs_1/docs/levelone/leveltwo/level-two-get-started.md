@@ -38,7 +38,7 @@ pie
     "Iron" :  5
 ```
 Test pdf link:
-- [View Terms of Use v 3.6.2 (./terms-of-use.pdf)](./terms-of-use.pdf ':target=_blank') 
+- [View Terms of Use v 3.6.2 (./terms-of-use.pdf)](./terms-of-use_2.pdf ':target=_blank') 
 - [View Terms of Use v 3.6.2 (terms-of-use.pdf)](terms-of-use.pdf ':target=_blank') 
 - [View Privacy Policy v 2.7.2](../../../privacy-policy-v-2.7.2.pdf ':target=_blank') 
 - [View Acceptable Use Poilcy v 4.0](../../../mdm-aup-v4.0.pdf ':target=_blank') 
@@ -47,13 +47,13 @@ Test pdf link:
 Test docsify link:
 - [Test docsify link attributes - external link](https://docsify.js.org/#/ ':target=_blank :class=test-class :title=abc :id=test-id') 
 - [Test docsify link attributes - same origin link](/docs/levelone/leveltwo/level-two-sub-page.md ':target=_blank :class=test-class :title=abc :id=test-id') 
-- [Test docsify link attributes - download(relative) link](./terms-of-use.pdf ':target=_blank :class=test-class :title=abc :id=test-id') 
-- [Test Disabled Link](./terms-of-use.pdf ':disabled :class=disabled-class :title=disabled')
+- [Test docsify link attributes - download(relative) link](./terms-of-use_2.pdf ':target=_blank :class=test-class :title=abc :id=test-id') 
+- [Test Disabled Link](./terms-of-use.pdf_2 ':disabled :class=disabled-class :title=disabled')
 
 
 Test webhook update
 
-- <a href="./terms-of-use.pdf" target="_blank">View Terms of Use v 3.6.2</a> 
+- <a href="./terms-of-use_2.pdf" target="_blank">View Terms of Use v 3.6.2</a> 
 - <a href="terms-of-use.pdf" target="_blank">View Terms of Use v 3.6.2</a> 
 - <a href="/privacy-policy-v-2.7.2.pdf" target="_blank">View Privacy Policy v 2.7.2</a>
 - <a href="../../../mdm-aup-v4.0.pdf " target="_blank">View Acceptable Use Poilcy v 4.0</a>
