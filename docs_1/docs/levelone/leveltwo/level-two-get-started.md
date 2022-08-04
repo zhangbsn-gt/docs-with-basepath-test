@@ -57,3 +57,7 @@ Test webhook update
 - <a href="/privacy-policy-v-2.7.2.pdf" target="_blank">View Privacy Policy v 2.7.2</a>
 - <a href="../../../mdm-aup-v4.0.pdf " target="_blank">View Acceptable Use Poilcy v 4.0</a>
 - <a href="/assets/Random Naming Style 1 . 2 3.4.pdf" target="_blank">View Acceptable Use Poilcy v 4.0</a>
+
+New test pathing (for paths and files):
+- [Level two sub page](leveltwo/level-two-sub-page.md)
+- [Terms-of-use within leveltwo folder](leveltwo/terms-of-use.pdf)
