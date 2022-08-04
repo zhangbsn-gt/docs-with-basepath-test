@@ -11,3 +11,4 @@ This is a test file in a test repo.
 ![](../../ducky_square_1.jpeg)
 
 [Link to test file with space](docs/levelone/leveltwo/test%20file%20with%20space.md)
+[Link to HTML file](docs/levelone/leveltwo/test.html)
