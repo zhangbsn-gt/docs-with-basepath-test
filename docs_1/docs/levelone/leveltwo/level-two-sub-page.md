@@ -9,3 +9,5 @@ This is a test file in a test repo.
 ## An image
 
 ![](../../ducky_square_1.jpeg)
+
+[Link to test file with space](./test%20file%20with%20space.md)
